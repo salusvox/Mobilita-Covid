@@ -1,0 +1,1497 @@
+﻿"ITTER107"	"Territorio"	"TIPO_DATO_ISTR"	"Tipo dato"	"SEXISTAT1"	"Sesso"	"CITTADINANZA"	"Cittadinanza"	"ORDINESCOL2"	"Ordine scolastico"	"NATGIUR1"	"Gestione della scuola"	"TIME"	"Seleziona anno (anno t= anno sc. t-1 / t)"	"Value"	"Flag Codes"	"Flags"
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	487964		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	447325		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	935289		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	423071		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	387067		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	810138		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	64893		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	60258		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	125151		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	201824		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	189062		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	390886		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	689788		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	636387		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1326175		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	101492		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	93742		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	195234		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	82824		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	76369		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	159193		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	18668		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	17373		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	36041		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	68362		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	64551		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	132913		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	169854		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	158293		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	328147		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	31876		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	29799		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	61675		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	29132		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	27260		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	56392		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2744		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2539		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	5283		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	13661		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	12995		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	26656		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	45537		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	42794		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	88331		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1241		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1170		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2411		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1241		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1170		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2411		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	247		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	242		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	489		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1488		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1412		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2900		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	10503		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	9537		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	20040		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	8534		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	7777		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	16311		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1969		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1760		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3729		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4078		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	3722		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	7800		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	14581		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	13259		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	27840		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	57872		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	53236		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	111108		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	45158		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	41332		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	86490		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	12714		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	11904		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	24618		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	50376		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	47592		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	97968		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	108248		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	100828		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	209076		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	64870		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	59836		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	124706		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	44260		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	40708		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	84968		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	20610		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	19128		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	39738		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	60085		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	57244		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	117329		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	124955		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	117080		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	242035		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	9870		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	9190		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	19060		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	9870		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	9190		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	19060		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4327		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	3950		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	8277		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	14197		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	13140		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	27337		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	7390		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	6845		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	14235		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	7390		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	6845		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	14235		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	69		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	73		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	142		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	7459		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6918		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	14377		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2480		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2345		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	4825		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2480		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2345		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	4825		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4258		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	3877		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	8135		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6738		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6222		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	12960		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	19421		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	17486		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	36907		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	17201		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	15556		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	32757		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2220		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1930		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	4150		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	33773		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	32647		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	66420		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	53194		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	50133		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	103327		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	7879		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	7453		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	15332		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	6783		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	6411		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	13194		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1096		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1042		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2138		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4463		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4147		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	8610		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	12342		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	11600		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	23942		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	27700		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	25707		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	53407		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	20276		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	18741		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	39017		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	7424		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	6966		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	14390		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	17522		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	16500		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	34022		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	45222		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	42207		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	87429		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	107356		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	99294		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	206650		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	88829		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	82360		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	171189		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	18527		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	16934		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	35461		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	21583		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	20620		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	42203		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	128939		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	119914		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	248853		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	30773		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	28544		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	59317		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	27756		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	25799		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	53555		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3017		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2745		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	5762		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	7384		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	6987		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	14371		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	38157		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	35531		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	73688		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	7880		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	7571		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	15451		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	7705		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	7399		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	15104		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	175		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	172		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	347		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1513		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1418		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	2931		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	9393		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	8989		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	18382		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	15498		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	14111		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	29609		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	14712		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	13424		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	28136		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	786		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	687		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1473		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1703		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1685		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	3388		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	17201		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	15796		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	32997		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	53205		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	49068		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	102273		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	38656		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	35738		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	74394		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	14549		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	13330		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	27879		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	10983		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	10530		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	21513		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	64188		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	59598		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	123786		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	145493		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	132243		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	277736		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	141367		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	128319		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	269686		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	4126		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3924		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	8050		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	37901		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	34192		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	72093		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	183394		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	166435		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	349829		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	13434		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	12111		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	25545		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	13305		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	11981		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	25286		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	129		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	130		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	259		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	2300		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	2107		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4407		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	15734		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	14218		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	29952		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2908		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2591		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	5499		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2867		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2557		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	5424		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	41		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	34		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	75		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	490		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	413		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	903		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	3398		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	3004		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6402		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	61492		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	55980		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	117472		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	58875		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	53450		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	112325		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2617		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2530		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	5147		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	19833		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	17684		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	37517		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	81325		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	73664		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	154989		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	42239		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	38770		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	81009		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	41125		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	37706		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	78831		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1114		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1064		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2178		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	8617		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	7855		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	16472		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	50856		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	46625		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	97481		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	5744		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	4981		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	10725		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	5667		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	4920		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	10587		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	77		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	61		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	138		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	772		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	738		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1510		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6516		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	5719		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	12235		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	19676		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	17810		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	37486		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	19528		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	17705		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	37233		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	148		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	105		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	253		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	5889		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	5395		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	11284		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	25565		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	23205		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	48770		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	68753		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	62210		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	130963		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	65791		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	59311		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	125102		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2962		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2899		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	5861		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	13893		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	12455		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	26348		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	82646		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	74665		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	157311		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	55371		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	50039		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	105410		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	52738		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	47485		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	100223		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2633		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2554		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	5187		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	9106		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	8125		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	17231		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	64477		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	58164		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	122641		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	13382		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	12171		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	25553		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	13053		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	11826		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	24879		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	329		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	345		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	674		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4787		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4330		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	9117		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	18169		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	16501		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"ITL"	"italiano-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	34670		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	71941		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	65084		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	137025		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	58070		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	52454		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	110524		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	13871		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	12630		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	26501		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	14404		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	13686		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	28090		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	86345		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	78770		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	165115		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	27464		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	24578		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	52042		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	21159		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	18827		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	39986		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	6305		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	5751		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	12056		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	5930		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	5544		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	11474		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	33394		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	30122		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	63516		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	7493		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	6555		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	14048		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	6227		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	5394		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	11621		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1266		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1161		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2427		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	871		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	855		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1726		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	8364		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	7410		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	15774		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	132		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	129		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	261		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	132		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	129		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	261		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	6		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	5		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	11		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	138		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	134		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	272		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2376		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2047		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	4423		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1876		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1528		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	3404		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	500		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	519		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1019		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	185		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	163		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	348		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2561		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2210		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	4771		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	17463		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	15847		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	33310		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	13056		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	11905		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	24961		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	4407		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3942		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	8349		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4868		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4521		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	9389		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	22331		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	20368		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	42699		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	18290		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	16688		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	34978		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	13543		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	12421		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	25964		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	4747		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	4267		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	9014		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	6351		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	6256		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	12607		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	24641		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	22944		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	47585		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1698		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1585		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	3283		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1698		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1585		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3283		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	635		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	666		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1301		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2333		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2251		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	4584		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1192		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1109		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2301		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1192		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1109		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2301		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	9		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	11		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	20		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1201		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1120		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2321		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	506		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	476		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	982		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	506		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	476		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	982		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	626		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	655		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1281		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1132		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1131		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2263		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	6211		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	5683		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	11894		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	5239		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	4908		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	10147		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	972		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	775		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1747		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	3807		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	3665		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	7472		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	10018		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	9348		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	19366		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1670		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1488		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	3158		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1470		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1289		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2759		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	200		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	199		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	399		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	375		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	399		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	774		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2045		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1887		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	3932		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	8711		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	7932		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	16643		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	6834		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	6224		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	13058		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1877		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1708		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3585		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1534		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1526		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	3060		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	10245		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	9458		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	19703		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	17214		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	15713		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	32927		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	14537		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	13230		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	27767		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2677		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2483		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	5160		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1198		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1049		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	2247		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	18412		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	16762		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	35174		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	6434		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	5863		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	12297		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	5910		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	5400		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	11310		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	524		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	463		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	987		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	496		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	452		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	948		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6930		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6315		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	13245		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1511		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1391		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2902		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1473		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1364		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2837		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	38		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	27		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	65		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	62		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	61		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	123		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1573		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1452		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	3025		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2252		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2090		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	4342		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2187		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2012		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	4199		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	65		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	78		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	143		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	59		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	47		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	106		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2311		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2137		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	4448		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	7017		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	6369		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	13386		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	4967		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	4454		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	9421		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2050		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1915		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3965		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	581		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	489		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1070		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	7598		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6858		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	14456		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	6304		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	5766		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	12070		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	6253		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	5710		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	11963		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	51		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	56		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	107		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	694		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	631		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1325		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6998		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6397		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	13395		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1324		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1269		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2593		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1317		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1258		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2575		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	7		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	11		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	18		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	47		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	63		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	110		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1371		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1332		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2703		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	130		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	121		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	251		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	129		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	120		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	249		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	10		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	5		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	15		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	140		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	126		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	266		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1971		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1781		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	3752		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1948		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1757		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	3705		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	23		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	24		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	47		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	346		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	313		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	659		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2317		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2094		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	4411		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1663		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1462		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	3125		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1650		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1453		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	3103		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	13		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	9		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	22		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	107		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	91		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	198		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1770		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1553		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	3323		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	265		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	245		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	510		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	264		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	244		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	508		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	8		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	14		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	22		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	273		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	259		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	532		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	951		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	888		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1839		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	945		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	878		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1823		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	6		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	10		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	16		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	176		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	145		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	321		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1127		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1033		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2160		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2669		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2339		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	5008		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2578		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2266		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	4844		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	91		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	73		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	164		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	231		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	206		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	437		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2900		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2545		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	5445		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2276		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2001		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	4277		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2202		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1944		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	4146		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	74		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	57		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	131		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	166		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	143		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	309		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2442		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2144		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	4586		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	393		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	338		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	731		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	376		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	322		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	698		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	17		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	16		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	33		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	65		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	63		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	128		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	458		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	401		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"FRG"	"straniero-a"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	859		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	559905		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	512409		
+"IT"	"Italia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	15478		
+"IT"	"Italia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	49729		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1072314		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	481141		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	439521		
+"IT"	"Italia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	13346		
+"IT"	"Italia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	42959		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	920662		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	78764		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	72888		
+"IT"	"Italia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2132		
+"IT"	"Italia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	6770		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	151652		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	216228		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	202748		
+"IT"	"Italia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	7588		
+"IT"	"Italia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	19918		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	418976		
+"IT"	"Italia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	776133		
+"IT"	"Italia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	715157		
+"IT"	"Italia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	23066		
+"IT"	"Italia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	69647		
+"IT"	"Italia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1491290		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	128956		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	118320		
+"ITC"	"Nord-ovest"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	3277		
+"ITC"	"Nord-ovest"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	10811		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	247276		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	103983		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	95196		
+"ITC"	"Nord-ovest"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2720		
+"ITC"	"Nord-ovest"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	8744		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	199179		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	24973		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	23124		
+"ITC"	"Nord-ovest"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	557		
+"ITC"	"Nord-ovest"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2067		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	48097		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	74292		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	70095		
+"ITC"	"Nord-ovest"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	2066		
+"ITC"	"Nord-ovest"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	6346		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	144387		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	203248		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	188415		
+"ITC"	"Nord-ovest"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	5343		
+"ITC"	"Nord-ovest"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	17157		
+"ITC"	"Nord-ovest"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	391663		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	39369		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	36354		
+"ITC1"	"Piemonte"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1166		
+"ITC1"	"Piemonte"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	3411		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	75723		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	35359		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	32654		
+"ITC1"	"Piemonte"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1089		
+"ITC1"	"Piemonte"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	3085		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	68013		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	4010		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3700		
+"ITC1"	"Piemonte"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	77		
+"ITC1"	"Piemonte"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	326		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	7710		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	14532		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	13850		
+"ITC1"	"Piemonte"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	482		
+"ITC1"	"Piemonte"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1285		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	28382		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	53901		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	50204		
+"ITC1"	"Piemonte"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1648		
+"ITC1"	"Piemonte"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	4696		
+"ITC1"	"Piemonte"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	104105		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1373		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1299		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	82		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	155		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2672		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1373		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1299		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	82		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	155		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2672		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	253		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	247		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	8		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	22		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	500		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1626		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1546		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	90		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	177		
+"ITC2"	"Valle d'Aosta / Vallée d'Aoste"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	3172		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	12879		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	11584		
+"ITC3"	"Liguria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	375		
+"ITC3"	"Liguria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1084		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	24463		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	10410		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	9305		
+"ITC3"	"Liguria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	310		
+"ITC3"	"Liguria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	872		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	19715		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2469		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2279		
+"ITC3"	"Liguria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	65		
+"ITC3"	"Liguria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	212		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	4748		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4263		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	3885		
+"ITC3"	"Liguria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	166		
+"ITC3"	"Liguria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	391		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	8148		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	17142		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	15469		
+"ITC3"	"Liguria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	541		
+"ITC3"	"Liguria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1475		
+"ITC3"	"Liguria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	32611		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	75335		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	69083		
+"ITC4"	"Lombardia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1654		
+"ITC4"	"Lombardia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	6161		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	144418		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	58214		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	53237		
+"ITC4"	"Lombardia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1321		
+"ITC4"	"Lombardia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	4787		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	111451		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	17121		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	15846		
+"ITC4"	"Lombardia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	333		
+"ITC4"	"Lombardia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1374		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	32967		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	55244		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	52113		
+"ITC4"	"Lombardia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1410		
+"ITC4"	"Lombardia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4648		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	107357		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	130579		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	121196		
+"ITC4"	"Lombardia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	3064		
+"ITC4"	"Lombardia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	10809		
+"ITC4"	"Lombardia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	251775		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	83160		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	76524		
+"ITD"	"Nord-est"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2436		
+"ITD"	"Nord-est"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	7127		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	159684		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	57803		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	53129		
+"ITD"	"Nord-est"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1637		
+"ITD"	"Nord-est"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	4978		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	110932		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	25357		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	23395		
+"ITD"	"Nord-est"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	799		
+"ITD"	"Nord-est"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2149		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	48752		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	66436		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	63500		
+"ITD"	"Nord-est"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1935		
+"ITD"	"Nord-est"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	5840		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	129936		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	149596		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	140024		
+"ITD"	"Nord-est"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	4371		
+"ITD"	"Nord-est"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	12967		
+"ITD"	"Nord-est"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	289620		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	11568		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	10775		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	452		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1056		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	22343		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	11568		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	10775		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	452		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1056		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	22343		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4962		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4616		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	158		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	438		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	9578		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	16530		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	15391		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	610		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1494		
+"ITDA"	"Trentino Alto Adige / Südtirol"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	31921		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	8582		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	7954		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	339		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	780		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	16536		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	8582		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	7954		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	339		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	780		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	16536		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	78		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	84		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	162		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	8660		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	8038		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	343		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	788		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	16698		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2986		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2821		
+"ITD2"	"Provincia Autonoma Trento"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	113		
+"ITD2"	"Provincia Autonoma Trento"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	276		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	5807		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2986		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2821		
+"ITD2"	"Provincia Autonoma Trento"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	113		
+"ITD2"	"Provincia Autonoma Trento"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	276		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	5807		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4884		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4532		
+"ITD2"	"Provincia Autonoma Trento"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	154		
+"ITD2"	"Provincia Autonoma Trento"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	430		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	9416		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	7870		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	7353		
+"ITD2"	"Provincia Autonoma Trento"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	267		
+"ITD2"	"Provincia Autonoma Trento"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	706		
+"ITD2"	"Provincia Autonoma Trento"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	15223		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	25632		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	23169		
+"ITD3"	"Veneto"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	694		
+"ITD3"	"Veneto"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2204		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	48801		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	22440		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	20464		
+"ITD3"	"Veneto"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	606		
+"ITD3"	"Veneto"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1949		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	42904		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3192		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2705		
+"ITD3"	"Veneto"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	88		
+"ITD3"	"Veneto"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	255		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	5897		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	37580		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	36312		
+"ITD3"	"Veneto"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1044		
+"ITD3"	"Veneto"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	3313		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	73892		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	63212		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	59481		
+"ITD3"	"Veneto"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1738		
+"ITD3"	"Veneto"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	5517		
+"ITD3"	"Veneto"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	122693		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	9549		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	8941		
+"ITD4"	"Friuli-Venezia Giulia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	333		
+"ITD4"	"Friuli-Venezia Giulia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	892		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	18490		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	8253		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	7700		
+"ITD4"	"Friuli-Venezia Giulia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	300		
+"ITD4"	"Friuli-Venezia Giulia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	778		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	15953		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1296		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1241		
+"ITD4"	"Friuli-Venezia Giulia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	33		
+"ITD4"	"Friuli-Venezia Giulia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	114		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2537		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4838		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4546		
+"ITD4"	"Friuli-Venezia Giulia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	146		
+"ITD4"	"Friuli-Venezia Giulia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	445		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	9384		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	14387		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	13487		
+"ITD4"	"Friuli-Venezia Giulia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	479		
+"ITD4"	"Friuli-Venezia Giulia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1337		
+"ITD4"	"Friuli-Venezia Giulia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	27874		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	36411		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	33639		
+"ITD5"	"Emilia-Romagna"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	957		
+"ITD5"	"Emilia-Romagna"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2975		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	70050		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	27110		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	24965		
+"ITD5"	"Emilia-Romagna"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	731		
+"ITD5"	"Emilia-Romagna"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2251		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	52075		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	9301		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	8674		
+"ITD5"	"Emilia-Romagna"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	226		
+"ITD5"	"Emilia-Romagna"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	724		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	17975		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	19056		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	18026		
+"ITD5"	"Emilia-Romagna"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	587		
+"ITD5"	"Emilia-Romagna"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1644		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	37082		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	55467		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	51665		
+"ITD5"	"Emilia-Romagna"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1544		
+"ITD5"	"Emilia-Romagna"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	4619		
+"ITD5"	"Emilia-Romagna"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	107132		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	124570		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	115007		
+"ITE"	"Centro"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	3232		
+"ITE"	"Centro"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	10636		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	239577		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	103366		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	95590		
+"ITE"	"Centro"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2774		
+"ITE"	"Centro"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	8825		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	198956		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	21204		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	19417		
+"ITE"	"Centro"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	458		
+"ITE"	"Centro"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1811		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	40621		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	22781		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	21669		
+"ITE"	"Centro"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	894		
+"ITE"	"Centro"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	2111		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	44450		
+"ITE"	"Centro"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	147351		
+"ITE"	"Centro"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	136676		
+"ITE"	"Centro"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	4126		
+"ITE"	"Centro"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	12747		
+"ITE"	"Centro"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	284027		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	37207		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	34407		
+"ITE1"	"Toscana"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1026		
+"ITE1"	"Toscana"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	3122		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	71614		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	33666		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	31199		
+"ITE1"	"Toscana"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	928		
+"ITE1"	"Toscana"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2837		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	64865		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3541		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3208		
+"ITE1"	"Toscana"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	98		
+"ITE1"	"Toscana"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	285		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	6749		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	7880		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	7439		
+"ITE1"	"Toscana"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	320		
+"ITE1"	"Toscana"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	736		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	15319		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	45087		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	41846		
+"ITE1"	"Toscana"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1346		
+"ITE1"	"Toscana"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	3858		
+"ITE1"	"Toscana"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	86933		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	9391		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	8962		
+"ITE2"	"Umbria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	320		
+"ITE2"	"Umbria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	802		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	18353		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	9178		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	8763		
+"ITE2"	"Umbria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	312		
+"ITE2"	"Umbria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	785		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	17941		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	213		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	199		
+"ITE2"	"Umbria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	8		
+"ITE2"	"Umbria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	17		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	412		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1575		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1479		
+"ITE2"	"Umbria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	71		
+"ITE2"	"Umbria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	154		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	3054		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	10966		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	10441		
+"ITE2"	"Umbria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	391		
+"ITE2"	"Umbria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	956		
+"ITE2"	"Umbria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	21407		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	17750		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	16201		
+"ITE3"	"Marche"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	515		
+"ITE3"	"Marche"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1492		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	33951		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	16899		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	15436		
+"ITE3"	"Marche"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	489		
+"ITE3"	"Marche"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1417		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	32335		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	851		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	765		
+"ITE3"	"Marche"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	26		
+"ITE3"	"Marche"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	75		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1616		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1762		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1732		
+"ITE3"	"Marche"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	73		
+"ITE3"	"Marche"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	163		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	3494		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	19512		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	17933		
+"ITE3"	"Marche"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	588		
+"ITE3"	"Marche"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1655		
+"ITE3"	"Marche"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	37445		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	60222		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	55437		
+"ITE4"	"Lazio"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1371		
+"ITE4"	"Lazio"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	5220		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	115659		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	43623		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	40192		
+"ITE4"	"Lazio"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1045		
+"ITE4"	"Lazio"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	3786		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	83815		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	16599		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	15245		
+"ITE4"	"Lazio"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	326		
+"ITE4"	"Lazio"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1434		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	31844		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	11564		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	11019		
+"ITE4"	"Lazio"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	430		
+"ITE4"	"Lazio"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1058		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	22583		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	71786		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	66456		
+"ITE4"	"Lazio"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1801		
+"ITE4"	"Lazio"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6278		
+"ITE4"	"Lazio"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	138242		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	151797		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	138009		
+"ITF"	"Sud"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	4354		
+"ITF"	"Sud"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	14341		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	289806		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	147620		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	134029		
+"ITF"	"Sud"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	4202		
+"ITF"	"Sud"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	13908		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	281649		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	4177		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3980		
+"ITF"	"Sud"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	152		
+"ITF"	"Sud"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	433		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	8157		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	38595		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	34823		
+"ITF"	"Sud"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1904		
+"ITF"	"Sud"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4110		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	73418		
+"ITF"	"Sud"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	190392		
+"ITF"	"Sud"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	172832		
+"ITF"	"Sud"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6258		
+"ITF"	"Sud"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	18451		
+"ITF"	"Sud"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	363224		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	14758		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	13380		
+"ITF1"	"Abruzzo"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	474		
+"ITF1"	"Abruzzo"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1286		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	28138		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	14622		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	13239		
+"ITF1"	"Abruzzo"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	465		
+"ITF1"	"Abruzzo"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1272		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	27861		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	136		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	141		
+"ITF1"	"Abruzzo"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	9		
+"ITF1"	"Abruzzo"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	14		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	277		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	2347		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	2170		
+"ITF1"	"Abruzzo"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	109		
+"ITF1"	"Abruzzo"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	217		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4517		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	17105		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	15550		
+"ITF1"	"Abruzzo"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	583		
+"ITF1"	"Abruzzo"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1503		
+"ITF1"	"Abruzzo"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	32655		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	3038		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2712		
+"ITF2"	"Molise"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	128		
+"ITF2"	"Molise"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	305		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	5750		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2996		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2677		
+"ITF2"	"Molise"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	124		
+"ITF2"	"Molise"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	299		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	5673		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	42		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	35		
+"ITF2"	"Molise"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	4		
+"ITF2"	"Molise"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	6		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	77		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	500		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	418		
+"ITF2"	"Molise"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	27		
+"ITF2"	"Molise"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	45		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	918		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	3538		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	3130		
+"ITF2"	"Molise"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	155		
+"ITF2"	"Molise"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	350		
+"ITF2"	"Molise"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6668		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	63463		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	57761		
+"ITF3"	"Campania"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1639		
+"ITF3"	"Campania"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	6228		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	121224		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	60823		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	55207		
+"ITF3"	"Campania"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1556		
+"ITF3"	"Campania"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	5957		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	116030		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2640		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2554		
+"ITF3"	"Campania"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	83		
+"ITF3"	"Campania"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	271		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	5194		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	20179		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	17997		
+"ITF3"	"Campania"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	959		
+"ITF3"	"Campania"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	2186		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	38176		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	83642		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	75758		
+"ITF3"	"Campania"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2598		
+"ITF3"	"Campania"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	8414		
+"ITF3"	"Campania"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	159400		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	43902		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	40232		
+"ITF4"	"Puglia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1018		
+"ITF4"	"Puglia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	3918		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	84134		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	42775		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	39159		
+"ITF4"	"Puglia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	978		
+"ITF4"	"Puglia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	3798		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	81934		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1127		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	1073		
+"ITF4"	"Puglia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	40		
+"ITF4"	"Puglia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	120		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2200		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	8724		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	7946		
+"ITF4"	"Puglia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	415		
+"ITF4"	"Puglia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	912		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	16670		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	52626		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	48178		
+"ITF4"	"Puglia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1433		
+"ITF4"	"Puglia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	4830		
+"ITF4"	"Puglia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	100804		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	6009		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	5226		
+"ITF5"	"Basilicata"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	221		
+"ITF5"	"Basilicata"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	570		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	11235		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	5931		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	5164		
+"ITF5"	"Basilicata"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	217		
+"ITF5"	"Basilicata"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	564		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	11095		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	78		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	62		
+"ITF5"	"Basilicata"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	4		
+"ITF5"	"Basilicata"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	6		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	140		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	780		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	752		
+"ITF5"	"Basilicata"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	39		
+"ITF5"	"Basilicata"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	83		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1532		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6789		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	5978		
+"ITF5"	"Basilicata"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	260		
+"ITF5"	"Basilicata"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	653		
+"ITF5"	"Basilicata"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	12767		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	20627		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	18698		
+"ITF6"	"Calabria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	874		
+"ITF6"	"Calabria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2034		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	39325		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	20473		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	18583		
+"ITF6"	"Calabria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	862		
+"ITF6"	"Calabria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2018		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	39056		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	154		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	115		
+"ITF6"	"Calabria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	12		
+"ITF6"	"Calabria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	16		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	269		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	6065		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	5540		
+"ITF6"	"Calabria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	355		
+"ITF6"	"Calabria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	667		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	11605		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	26692		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	24238		
+"ITF6"	"Calabria"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1229		
+"ITF6"	"Calabria"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2701		
+"ITF6"	"Calabria"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	50930		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	71422		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	64549		
+"ITG"	"Isole"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	2179		
+"ITG"	"Isole"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	6814		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	135971		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	68369		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	61577		
+"ITG"	"Isole"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	2013		
+"ITG"	"Isole"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	6504		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	129946		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	3053		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2972		
+"ITG"	"Isole"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	166		
+"ITG"	"Isole"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	310		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	6025		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	14124		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	12661		
+"ITG"	"Isole"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	789		
+"ITG"	"Isole"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1511		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	26785		
+"ITG"	"Isole"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	85546		
+"ITG"	"Isole"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	77210		
+"ITG"	"Isole"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2968		
+"ITG"	"Isole"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	8325		
+"ITG"	"Isole"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	162756		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	57647		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	52040		
+"ITG1"	"Sicilia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1676		
+"ITG1"	"Sicilia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	5484		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	109687		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	54940		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	49429		
+"ITG1"	"Sicilia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1524		
+"ITG1"	"Sicilia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	5207		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	104369		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2707		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	2611		
+"ITG1"	"Sicilia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	152		
+"ITG1"	"Sicilia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	277		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	5318		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	9272		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	8268		
+"ITG1"	"Sicilia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	568		
+"ITG1"	"Sicilia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	1044		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	17540		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	66919		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	60308		
+"ITG1"	"Sicilia"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	2244		
+"ITG1"	"Sicilia"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	6528		
+"ITG1"	"Sicilia"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	127227		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	13775		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	12509		
+"ITG2"	"Sardegna"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	503		
+"ITG2"	"Sardegna"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	1330		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB"	"pubblica"	"2018"	"2018"	26284		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	13429		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	12148		
+"ITG2"	"Sardegna"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	489		
+"ITG2"	"Sardegna"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	1297		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"STA"	"statale"	"2018"	"2018"	25577		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	346		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	361		
+"ITG2"	"Sardegna"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	14		
+"ITG2"	"Sardegna"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	33		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PUB_NSTA"	"non statale pubblica"	"2018"	"2018"	707		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4852		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	4393		
+"ITG2"	"Sardegna"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	221		
+"ITG2"	"Sardegna"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	467		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	9245		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"M"	"maschi"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	18627		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"F"	"femmine"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	16902		
+"ITG2"	"Sardegna"	"SCHO"	"scuole"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	724		
+"ITG2"	"Sardegna"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	1797		
+"ITG2"	"Sardegna"	"ENR"	"iscritti "	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"ALL"	"totale"	"2018"	"2018"	35529		
+"ITD1"	"Provincia Autonoma Bolzano / Bozen"	"CLAS"	"classi"	"T"	"totale"	"TOTAL"	"totale"	"PRE"	"infanzia"	"PRI"	"privata"	"2018"	"2018"	8		
